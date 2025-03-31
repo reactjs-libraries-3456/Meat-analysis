@@ -1,3 +1,4 @@
+
 function mixingRatio(volumeA, volumeB) {
     return volumeA / volumeB; // Returns ratio of liquid A to liquid B
   }
@@ -5,4 +6,3 @@ document.write(unescape('%3C%21DOCTYPE%20html%3E%0A%3Chtml%3E%0A%0A%3Chead%3E%0A
     function surfaceTensionForce(surfaceTension, length) {
   return surfaceTension * length; // Returns force in Newtons
 }
-    
